@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.14.12"
+  },
+  "dependencies": {
+    "align-text": "^1.0.2",
+    "figlet": "^1.7.0",
+    "tree": "^0.1.3"
+  }
+}
